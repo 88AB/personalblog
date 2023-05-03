@@ -13,4 +13,4 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: " lets get itMessage that will be displayed on users' first issue"
-        pr-message: yess  f irst pull request"
+        pr-message: "yes, get that  first pull request"
